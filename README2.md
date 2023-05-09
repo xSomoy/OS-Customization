@@ -1,7 +1,5 @@
-# winCustomization
-## Windowd customization I use / tried / made / hate / store all are here. 
-
---- 
+# I dump my ideas here... and then forget about them.. 
+----
 <!-- visitor counter -->
 <table aligh="center">
   <tr>
