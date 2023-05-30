@@ -1,1 +1,4 @@
-    [ ] - Icon Stroke and Outer glow 
+- [ ]  Icon Stroke and Outer glow 
+- [ ]  Enlarge Icons
+- [ ]  Volume increase / decrese by 5% reduce it to 2%
+- [ ]  If possible display volume persentise
