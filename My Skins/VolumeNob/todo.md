@@ -2,3 +2,4 @@
 - [ ]  Enlarge Icons
 - [ ]  Volume increase / decrese by 5% reduce it to 2%
 - [ ]  If possible display volume persentise
+- [ ]  Add a Background or something
