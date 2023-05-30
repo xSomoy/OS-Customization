@@ -1,0 +1,1 @@
+    [ ] - Icon Stroke and Outer glow 
