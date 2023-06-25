@@ -2,4 +2,10 @@
 ---
 
 - [ ] Archive
-- [ ] 
+- [ ] Buffer
+- [ ] ideaDumb **?**
+- [ ] DevOps
+- [ ] tempProject **?**
+- [ ] Lock
+- [ ] Photography
+  
