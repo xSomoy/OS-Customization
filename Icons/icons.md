@@ -8,4 +8,8 @@
 - [ ] tempProject **?**
 - [ ] Lock
 - [ ] Photography
+- [ ] OS
+- [ ] DATA
+- [ ] Work
+- [ ] KEY
   
