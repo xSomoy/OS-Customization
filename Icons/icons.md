@@ -1,7 +1,7 @@
 # Needed Icons
 ---
 
-- [ ] Archive
+- [ ] Archive **-M**
 - [ ] Buffer
 - [ ] ideaDumb **?**
 - [ ] DevOps
