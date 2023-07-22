@@ -1,5 +1,5 @@
-# winCustomization
-## Windowd customization I use / tried / made / hate / store all are here. 
+# OS-Customization
+## OS-Customization I use / tried / made / hate / store all are here. 
 
 --- 
 <!-- visitor counter -->
