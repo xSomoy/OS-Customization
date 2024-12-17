@@ -1,0 +1,4 @@
+[OcultadoNumero]
+Meter=Image
+ImageName=#INumero#
+MeterStyle=IconStyleO

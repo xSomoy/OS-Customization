@@ -1,0 +1,31 @@
+[helpbg]
+ UpdateDivider=1
+ Meter=Image
+ ImageName=hexbg
+ ImagePath=#@#Images\
+ ImageTint=#Color3#
+ h=73
+ x=434
+ y=458
+ LeftMouseUpAction=[!WriteKeyValue "Variables" "help" "N"][!Refresh]
+[helpstroke]
+ Meter=Image
+ ImageName=hex
+ ImagePath=#@#Images\
+ ImageTint=#Color2#
+ h=73
+ x=434
+ y=458
+[help]
+ Meter=String
+ Text=CENTER (click to hide)
+ FontFace=#TypeFace#
+ FontSize=10
+ FontColor=#Color2#
+ AntiAlias=1
+ StringAlign=CenterCenter
+ x=476
+ y=495
+ w=70
+ h=100
+ ClipString=1

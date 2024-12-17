@@ -1,0 +1,7 @@
+[AccesoNumero]
+Meter=Image
+ImageName=#INumero#
+MeterStyle=IconStyle
+TransformationMatrix=1;0;0;1;0;(#Tamaño#-[AccesoNumero:W])
+MouseOverAction=[!SetVariable m "Numero"][!SetOption "Titulo" "Text" "#NONumero#"][!CommandMeasure CZ "Stop 2"][!CommandMeasure CZ "Execute 1"]
+LeftMouseDownAction=["#RNumero#"]
